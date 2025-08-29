@@ -18,5 +18,5 @@ class Solution {
          list.add(new int[]{start,end});
         return list.toArray(new int[list.size()][]);
     }
-
+}
     
