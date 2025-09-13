@@ -1,30 +1,15 @@
 class Solution {
     public int maxFreqSum(String s) {
-        int [] freq = new int[26];
-        for(char c :s.toCharArray()){
-            freq[c - 'a']++;
+        int[] freq = new int[26];
+        int maxVowel = 0, maxConso = 0;
+        for (char c : s.toCharArray()) {
+            int i = c - 'a';
+            freq[i]++;
+            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
+                maxVowel = Math.max(maxVowel, freq[i]);
+            else
+                maxConso = Math.max(maxConso, freq[i]);
         }
-
-        String vowels = "aeiou";
-        int maxVowels = 0;
-        int maxConsonants = 0;
-
-        for(int i =0;i<freq.length;i++){
-            int current = (char)('a'+i);
-            int f = freq[i];
-            if(f==0)continue;
-
-             if(vowels.indexOf(current)!=-1){
-            if(f>maxVowels){
-                   maxVowels=f;
-                }
-          }
-            else{
-                if(f>maxConsonants){
-                    maxConsonants=f;
-                }
-            } 
-        }
-        return maxVowels + maxConsonants; 
-        } 
+        return maxVowel + maxConso;
     }
+}
