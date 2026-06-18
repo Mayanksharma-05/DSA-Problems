@@ -45,3 +45,15 @@ Gradual addition of new problems as I continue solving
 📌 Usage
 
 You can browse the repository, check individual problem solutions, and run them locally using any Java IDE (like IntelliJ IDEA, Eclipse, or VS Code).
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/mayanksharmagu/DSA-Problems/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/mayanksharmagu/DSA-Problems/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
