@@ -64,4 +64,13 @@ You can browse the repository, check individual problem solutions, and run them 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/mayanksharmagu/DSA-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/mayanksharmagu/DSA-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mayanksharmagu/DSA-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/mayanksharmagu/DSA-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
