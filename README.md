@@ -65,6 +65,7 @@ You can browse the repository, check individual problem solutions, and run them 
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/mayanksharmagu/DSA-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/mayanksharmagu/DSA-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/mayanksharmagu/DSA-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +74,12 @@ You can browse the repository, check individual problem solutions, and run them 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/mayanksharmagu/DSA-Problems/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mayanksharmagu/DSA-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mayanksharmagu/DSA-Problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
