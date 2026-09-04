@@ -56,4 +56,12 @@ You can browse the repository, check individual problem solutions, and run them 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mayanksharmagu/DSA-Problems/tree/main/0001-two-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/mayanksharmagu/DSA-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/mayanksharmagu/DSA-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
